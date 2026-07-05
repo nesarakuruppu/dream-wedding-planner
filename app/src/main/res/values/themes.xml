@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DreamWeddingPlanner1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/pink_dark</item>
+        <item name="colorAccent">@color/gold</item>
+        <item name="android:statusBarColor">@color/pink_dark</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:textColor">@color/textPrimary</item>
+
+    </style>
+
+    <style name="Theme.DreamWeddingPlanner1" parent="Base.Theme.DreamWeddingPlanner1" />
+</resources>

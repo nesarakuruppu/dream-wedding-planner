@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Main Soft Wedding Gradient (Consistent with app theme) -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#FFF5F8"
+                android:centerColor="#FCE8F0"
+                android:endColor="#F4C0D1"
+                android:angle="135"/>
+        </shape>
+    </item>
+
+    <!-- Subtle elegant overlay for depth -->
+    <item android:alpha="0.08">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#FFFFFF"
+                android:endColor="#E8B8C8"
+                android:angle="45"/>
+        </shape>
+    </item>
+
+</layer-list>

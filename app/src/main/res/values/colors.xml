@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#993556</color>
+    <color name="pink_dark">#72243E</color>
+    <color name="pink_light">#F4C0D1</color>
+    <color name="light_pink">#FFF5F8</color>
+    <color name="gold">#C9963B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#2C2C2C</color>
+    <color name="gray">#666666</color>
+    <color name="green_confirm">#3B6D11</color>
+    <color name="green_confirm_bg">#EAF3DE</color>
+    <color name="red_decline">#993222</color>
+    <color name="red_decline_bg">#FCEBEB</color>
+    <color name="colorBackground">#FFF5F8</color>
+    <color name="colorPrimary">#993556</color>
+    <color name="colorPrimaryDark">#72243E</color>
+    <color name="colorAccent">#C9963B</color>
+    <color name="textPrimary">#2C2C2C</color>
+    <color name="textLight">#FFFFFF</color>
+    <color name="ivory">#FAF5F0</color>
+    <color name="soft_gold">#C9963B</color>
+</resources>
