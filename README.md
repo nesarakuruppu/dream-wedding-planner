@@ -26,11 +26,6 @@ An Android application developed using **Java** and **Android Studio** that help
 - CardView
 - Material Design Components
 
----
-
-## 📸 Screenshots
-
-*Screenshots will be added soon.*
 
 ---
 
